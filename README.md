@@ -1,6 +1,7 @@
 # Sound-source-tracking
 A C++ demo of the sound source tracking paper Robust Localization and Tracking of Simultaneous Moving
 Sound Sources Using Beamforming and Particle Filtering 
+https://jmvalin.ca/papers/valin_localization.pdf
 
 ## You should see things like
  ![Alt text](https://github.com/zhr1201/Sound-source-tracking/blob/master/printscreen.PNG)
