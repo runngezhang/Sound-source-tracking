@@ -1,0 +1,21 @@
+CREATE release\libtest.a
+ADDMOD release\audio_reader.o
+ADDMOD release\Doa_Estimation.o
+ADDMOD release\fft.o
+ADDMOD release\myexception.o
+ADDMOD release\trackingthread.o
+ADDMOD release\indicator.o
+ADDMOD release\main.o
+ADDMOD release\mainwindow.o
+ADDMOD release\coordinateIndicator.o
+ADDMOD release\circularIndicator.o
+ADDMOD release\particle2d.o
+ADDMOD release\particleIndicator.o
+ADDMOD release\particlePos.o
+ADDMOD release\pathitem.o
+ADDMOD release\qrc_resources.o
+ADDMOD release\moc_trackingthread.o
+ADDMOD release\moc_indicator.o
+ADDMOD release\moc_mainwindow.o
+ADDMOD release\moc_pathitem.o
+SAVE

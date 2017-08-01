@@ -1,0 +1,17 @@
+INPUT(
+./release\trackingthread.o
+./release\indicator.o
+./release\main.o
+./release\mainwindow.o
+./release\coordinateIndicator.o
+./release\circularIndicator.o
+./release\particle2d.o
+./release\particleIndicator.o
+./release\particlePos.o
+./release\pathitem.o
+./release\qrc_resources.o
+./release\moc_trackingthread.o
+./release\moc_indicator.o
+./release\moc_mainwindow.o
+./release\moc_pathitem.o
+);

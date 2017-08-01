@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pushButtonMetro.qss</file>
+        <file>pushButtonStart.qss</file>
+        <file>resources/appbar.control.play.png</file>
+        <file>resources/appbar.control.play.press.png</file>
+        <file>resources/appbar.control.pause.png</file>
+        <file>resources/appbar.control.pause.press.png</file>
+        <file>pushButtonStop.qss</file>
+        <file>resources/screen.png</file>
+        <file>resources/109_1_tracking_fast_s.wav</file>
+        <file>resources/hamming.wav</file>
+    </qresource>
+</RCC>

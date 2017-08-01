@@ -1,0 +1,17 @@
+INPUT(
+./debug\trackingthread.o
+./debug\indicator.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\coordinateIndicator.o
+./debug\circularIndicator.o
+./debug\particle2d.o
+./debug\particleIndicator.o
+./debug\particlePos.o
+./debug\pathitem.o
+./debug\qrc_resources.o
+./debug\moc_trackingthread.o
+./debug\moc_indicator.o
+./debug\moc_mainwindow.o
+./debug\moc_pathitem.o
+);

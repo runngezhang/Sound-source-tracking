@@ -1,0 +1,21 @@
+CREATE debug\libtest.a
+ADDMOD debug\audio_reader.o
+ADDMOD debug\Doa_Estimation.o
+ADDMOD debug\fft.o
+ADDMOD debug\myexception.o
+ADDMOD debug\trackingthread.o
+ADDMOD debug\indicator.o
+ADDMOD debug\main.o
+ADDMOD debug\mainwindow.o
+ADDMOD debug\coordinateIndicator.o
+ADDMOD debug\circularIndicator.o
+ADDMOD debug\particle2d.o
+ADDMOD debug\particleIndicator.o
+ADDMOD debug\particlePos.o
+ADDMOD debug\pathitem.o
+ADDMOD debug\qrc_resources.o
+ADDMOD debug\moc_trackingthread.o
+ADDMOD debug\moc_indicator.o
+ADDMOD debug\moc_mainwindow.o
+ADDMOD debug\moc_pathitem.o
+SAVE

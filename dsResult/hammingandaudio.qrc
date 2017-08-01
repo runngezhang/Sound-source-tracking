@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>109_1_tracking_fast_s.wav</file>
+        <file alias="ham">hamming.wav</file>
+    </qresource>
+</RCC>
