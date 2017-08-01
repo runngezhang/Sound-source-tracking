@@ -11,6 +11,7 @@ https://jmvalin.ca/papers/valin_localization.pdf
   tracking results.
   
 ## Some other things
+  * The original paper uses a spherical array and we use a 5 element circular microphone array, and only the horizontal angle       is tracked. 
   * The localization part is a static link libarary and the code is not open to the public.
   * The tracking part using particle filtering is open and only deals with one speaker.
   * After launching the GUI, only Quit, Start, Pause button can be pushed and the functionality of other pushbuttons are not
